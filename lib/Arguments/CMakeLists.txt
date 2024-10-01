@@ -1,0 +1,1 @@
+add_library(Arguments Arguments.cpp Arguments.hpp)
